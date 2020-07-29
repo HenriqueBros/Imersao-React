@@ -1,0 +1,181 @@
+{
+  "categorias": [
+    {
+      "titulo": "Microcontroladores",
+      "link": "https://pt.wikipedia.org/wiki/Microcontrolador",
+      "cor": "#6BD1FF",
+      "link_extra": {
+        "text": "Oque são?",
+        "url": "https://pt.wikipedia.org/wiki/Microcontrolador"
+      },
+      "videos": [
+        {
+          "titulo": "O que é Arduino, afinal de contas? #ManualMaker ",
+          "url": "https://www.youtube.com/watch?v=sv9dDtYnE1g"
+        },
+        {
+          "titulo": "Qual Arduino comprar ?",
+          "url": "https://www.youtube.com/watch?v=FbYd9KPkkl4"
+        },
+        {
+          "titulo": "Conheça os sensores do Arduino #ManualMaker ",
+          "url": "https://www.youtube.com/watch?v=vEdYjAbzrAE"
+        },
+        {
+          "titulo": "5 projetos INCRÍVEIS para INICIANTES no ARDUINO",
+          "url": "https://www.youtube.com/watch?v=Ve47cwkF2Yo"
+        },
+        {
+          "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
+          "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
+        }      
+      ]
+    },
+    {
+      "titulo": "Raspberry Pi",
+      "cor": "#00C86F",
+      "link_extra": {
+        "text": "Para que serve e como usar.",
+        "url": "https://www.raspberrypi.org/"
+      },
+      "videos": [
+        {
+          "titulo": "De onde vem o Raspberry Pi? - Curso Raspberry Pi",
+          "url": "https://www.youtube.com/watch?v=5_PrhCeKzNI"
+        },
+        {
+          "titulo": "Top 5 Raspberry Pi DIY Projects of All Time",
+          "url": "https://www.youtube.com/watch?v=ZXpGNBzHKRY"
+        },
+        {
+          "titulo": "Raspberry Pi Projects 2020",
+          "url": "https://www.youtube.com/watch?v=ZDfhcA0SCiM"
+        },
+        {
+          "titulo": "RASPBERRY PI 4 - MONTEI um EMULADOR DE JOGOS BOM e MUITO BARATO com ele! | Retropie",
+          "url": "https://www.youtube.com/watch?v=1plP0bEgo3c&t=39s"
+        }, 
+        {
+          "titulo": "Raspberry Pi 4 1GB vs 2GB vs 4GB - Curso de Raspberry Pi",
+          "url": "https://www.youtube.com/watch?v=oWwz1quoaIs"
+        }
+      ]
+    },
+    {
+      "titulo": "IoT",
+      "cor": "#9cd33b",
+      "link_extra": {
+        "text": "Internet Of Things - Como e para que utilizar.",
+        "url": "https://internetofthingsagenda.techtarget.com/definition/Internet-of-Things-IoT"
+      },
+      "videos": [
+        {
+          "titulo": "AFINAL O QUE É INTERNET DAS COISAS? (IoT) Entenda de uma vez por todas",
+          "url": "https://www.youtube.com/watch?v=QtjFedAEXus"
+        },
+        {
+          "titulo": "IoT (Internet das Coisas) // Dicionário do Programador",
+          "url": "https://www.youtube.com/watch?v=qNHydTYkfcg"
+        },
+        {
+          "titulo": "O QUE É INTERNET DAS COISAS? - UMA RÁPIDA EXPLICAÇÃO SOBRE IOT - 036",
+          "url": "https://www.youtube.com/watch?v=Gojqw9BQ5qY"
+        },
+        {
+          "titulo": "Internet of Things (IoT) | What is IoT | How it Works | IoT Explained | Edureka",
+          "url": "https://www.youtube.com/watch?v=LlhmzVL5bm8"
+        },
+        {
+          "titulo": "UDOO x86, a minha nova central de automação residêncial",
+          "url": "https://www.youtube.com/watch?v=rvTMLdIS5ig"
+        }
+      ]
+    },
+    {
+      "titulo": "Filmes",
+      "cor": "orange",
+      "videos": [
+        {
+          "titulo": "MAUDIE - SUA VIDA E SUA ARTE",
+          "url": "https://www.youtube.com/watch?v=wCZ_guQTGNw"
+        },
+        {
+          "titulo": "Frances Ha ",
+          "url": "https://www.youtube.com/watch?v=YdxCnCvCngk"
+        },
+        {
+          "titulo": "As vantagens de ser invisível ",
+          "url": "https://www.youtube.com/watch?v=7YBFth3_MOo"
+        },
+        {
+          "titulo": "Boyhood",
+          "url": "https://www.youtube.com/watch?v=Y0oX0xiwOv8"
+        }
+      ]
+    },
+    {
+      "titulo": "Musicas",
+      "cor": "red",
+      "link_extra": {
+        "text": "",
+        "url": ""
+      },
+      "videos": [
+        {
+          "titulo": "Esteban Tavares - Primeiro Avião (Acústico)",
+          "url": "https://www.youtube.com/watch?v=-k0qScuPAjo"
+        },
+        {
+          "titulo": "Toda Mañana Tendrás Una Nueva Canción",
+          "url": "https://www.youtube.com/watch?v=kocE7a3obj0"
+        },
+        {
+          "titulo": "Fresno - Sua alegria foi cancelada",
+          "url": "https://www.youtube.com/watch?v=rPkWHYY9CzQ"
+        },
+        {
+          "titulo": "Los Cuarentinos - Prófugos",
+          "url": "https://www.youtube.com/watch?v=ibw-JOhaKfU"
+        },
+        {
+          "titulo": "Rodrigo Amarante - Irene",
+          "url": "https://www.youtube.com/watch?v=MI8NqHAZIm8"
+        },
+        {
+          "titulo": "Hers - Dorothy",
+          "url": "https://www.youtube.com/watch?v=r5qjKVYfME4"
+        }
+      ]
+    },
+    {
+      "titulo": "Aprendendo a aprender tecnologia",
+      "cor": "#6b5be2",
+      "link_extra": {
+        "text": "Curso sobre aprendizado na Alura",
+        "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
+      },
+      "videos": [
+        {
+          "titulo": "Como estudar melhor?",
+          "url": "https://www.youtube.com/watch?v=Is6c9KSGCbk&feature=youtu.be"
+        },
+        {
+          "titulo": "Faculdade",
+          "url": "https://www.youtube.com/watch?v=jw06H8esyzQ&feature=youtu.be"
+        },
+        {
+          "titulo": "Frameworks",
+          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+        },
+        {
+          "titulo": "A mágica do Aprendizado",
+          "url": "https://www.youtube.com/watch?v=oTEXzpfEpPY"
+        },
+        {
+          "titulo": "Como aprender a programar?",
+          "url": "https://www.youtube.com/watch?v=MwCx2qKdbDw&feature=youtu.be"
+        }
+      ]
+    }
+  ]
+}
