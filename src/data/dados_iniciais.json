@@ -1,12 +1,12 @@
 {
   "categorias": [
     {
-      "titulo": "Microcontroladores",
-      "link": "https://pt.wikipedia.org/wiki/Microcontrolador",
+      "titulo": "Arduino",
+      "link": "https://www.arduino.cc/",
       "cor": "#6BD1FF",
       "link_extra": {
         "text": "Oque são?",
-        "url": "https://pt.wikipedia.org/wiki/Microcontrolador"
+        "url": "https://www.arduino.cc/"
       },
       "videos": [
         {
@@ -26,8 +26,8 @@
           "url": "https://www.youtube.com/watch?v=Ve47cwkF2Yo"
         },
         {
-          "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
-          "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
+          "titulo": "Curso de Arduino - Aula 01 - Introdução",
+          "url": "https://www.youtube.com/watch?v=rCILKZPG0Kg"
         }      
       ]
     },
@@ -79,7 +79,7 @@
         },
         {
           "titulo": "O QUE É INTERNET DAS COISAS? - UMA RÁPIDA EXPLICAÇÃO SOBRE IOT - 036",
-          "url": "https://www.youtube.com/watch?v=Gojqw9BQ5qY"
+          "url": "https://www.youtube.com/watch?v=ODb8Uq5KEMw&t=1s"
         },
         {
           "titulo": "Internet of Things (IoT) | What is IoT | How it Works | IoT Explained | Edureka",
@@ -117,8 +117,8 @@
       "titulo": "Musicas",
       "cor": "red",
       "link_extra": {
-        "text": "",
-        "url": ""
+        "text": "Oque estou ouvindo ?",
+        "url": "https://open.spotify.com/user/hmbroseghini?si=ikJ74lynQH2hS4tnR1vTaQ"
       },
       "videos": [
         {
