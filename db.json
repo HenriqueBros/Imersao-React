@@ -2,52 +2,38 @@
     "categorias": [
       {
         "id": 1,
-        "titulo": "Arduino",
-        "cor": "#6BD1FF",
-        "link_extra": {
-          "text": "Para que serve o Arduino?",
-          "url": "https://www.arduino.cc/"
-        }
+        "nome": "Arduino",
+        "descricao": "Oque é",
+        "cor": "#6BD1FF"
       },
 
       {
         "id": 2,
-        "titulo": "Raspberry Pi",
-        "cor": "#6BD1FF",
-        "link_extra": {
-          "text": "Para que serve e como usar",
-          "url": "https://www.raspberrypi.org/"
-        }
+        "nome": "Raspberry Pi",
+        "descricao": "Para que serve",
+        "cor": "#6BD1FF"
       },
 
       {
         "id": 3,
-        "titulo": "Internet Of Things",
-        "cor": "#6BD1FF",
-        "link_extra": {
-          "text": "Oque é Iot",
-          "url": "https://internetofthingsagenda.techtarget.com/definition/Internet-of-Things-IoT"
-        }
+        "nome": "Internet Of Things",
+        "descricao": "Como utilizar",
+        "cor": "#6BD1FF"
       },
 
       {
         "id": 4,
-        "titulo": "Filmes",
-        "cor": "#6BD1FF",
-        "link_extra": {
-          "text": "",
-          "url": ""
-        }
+        "nome": "Filmes",
+        "descricao": "Os melhores",
+        "cor": "#6BD1FF"
       },
 
       {
         "id": 5,
-        "titulo": "Musicas",
-        "cor": "#6BD1FF",
-        "link_extra": {
-          "text": "Oque estou ouvindo ?",
-          "url": "https://open.spotify.com/user/hmbroseghini?si=ikJ74lynQH2hS4tnR1vTaQ"
-        }
+        "nome": "Musicas",
+        "descricao": "Musicas que estou ouvindo",
+        "cor": "#6BD1FF"
+        
       }
     ]  
 }
