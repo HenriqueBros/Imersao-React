@@ -1,0 +1,53 @@
+{
+    "categorias": [
+      {
+        "id": 1,
+        "titulo": "Arduino",
+        "cor": "#6BD1FF",
+        "link_extra": {
+          "text": "Para que serve o Arduino?",
+          "url": "https://www.arduino.cc/"
+        }
+      },
+
+      {
+        "id": 2,
+        "titulo": "Raspberry Pi",
+        "cor": "#6BD1FF",
+        "link_extra": {
+          "text": "Para que serve e como usar",
+          "url": "https://www.raspberrypi.org/"
+        }
+      },
+
+      {
+        "id": 3,
+        "titulo": "Internet Of Things",
+        "cor": "#6BD1FF",
+        "link_extra": {
+          "text": "Oque é Iot",
+          "url": "https://internetofthingsagenda.techtarget.com/definition/Internet-of-Things-IoT"
+        }
+      },
+
+      {
+        "id": 4,
+        "titulo": "Filmes",
+        "cor": "#6BD1FF",
+        "link_extra": {
+          "text": "",
+          "url": ""
+        }
+      },
+
+      {
+        "id": 5,
+        "titulo": "Musicas",
+        "cor": "#6BD1FF",
+        "link_extra": {
+          "text": "Oque estou ouvindo ?",
+          "url": "https://open.spotify.com/user/hmbroseghini?si=ikJ74lynQH2hS4tnR1vTaQ"
+        }
+      }
+    ]  
+}
